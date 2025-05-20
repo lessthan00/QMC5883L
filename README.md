@@ -7,8 +7,8 @@
   
 [datasheet](https://www.jlc-smt.com/lcsc/detail?componentCode=C976032)  
   
-VDD 2.16V~3.6V  
-VDDIO 1.65V~3.6V  
+VDD 2.16V-3.6V  
+VDDIO 1.65V-3.6V  
 电流消耗 最大850uA  
 16bit ADC  
 the default  I2C address is 0D: 0001101    
